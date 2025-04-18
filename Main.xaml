@@ -69,13 +69,13 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="961,466.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1559,824.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:LogMessage DisplayName="Log Message | Start" sap:VirtualizedContainerService.HintSize="416,173" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Bonjour&quot;]" />
-    <ui:LogMessage DisplayName="Log Message | End" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Trace" Message="[&quot;Au revoir  les amis&quot;]" />
+    <ui:LogMessage DisplayName="Log Message | End" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Trace" Message="[&quot;Au revoir&quot;]" />
   </Sequence>
 </Activity>
