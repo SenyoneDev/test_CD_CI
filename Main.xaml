@@ -77,6 +77,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <ui:LogMessage DisplayName="Log Message | Start" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Bonjour&quot;]" />
     <ui:LogMessage DisplayName="Log Message | End" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Trace" Message="[&quot;Au revoir&quot;]" />
-    <WriteLine DisplayName="Write Line | Success" sap:VirtualizedContainerService.HintSize="334.4,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Your project is deployed by Succes" />
+    <WriteLine DisplayName="Write Line | Success" sap:VirtualizedContainerService.HintSize="334.4,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Your project is deployed by Succes...." />
   </Sequence>
 </Activity>
